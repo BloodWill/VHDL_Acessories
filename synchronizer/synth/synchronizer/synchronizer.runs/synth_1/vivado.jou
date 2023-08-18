@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sat Jun 25 13:34:49 2022
+# Process ID: 40516
+# Current directory: E:/Study_Projects/FPGA_MODULE_VHDL/synchronizer/synth/synchronizer/synchronizer.runs/synth_1
+# Command line: vivado.exe -log synchronizer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source synchronizer.tcl
+# Log file: E:/Study_Projects/FPGA_MODULE_VHDL/synchronizer/synth/synchronizer/synchronizer.runs/synth_1/synchronizer.vds
+# Journal file: E:/Study_Projects/FPGA_MODULE_VHDL/synchronizer/synth/synchronizer/synchronizer.runs/synth_1\vivado.jou
+# Running On: DESKTOP-73M0EMR, OS: Windows, CPU Frequency: 3696 MHz, CPU Physical cores: 6, Host memory: 34283 MB
+#-----------------------------------------------------------
+source synchronizer.tcl -notrace
